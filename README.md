@@ -8,6 +8,12 @@
 
 ✨ Untuk saat ini aku juga sedang belajar **Python** menggunakan *platform* **Udemy**
 
+<p align="left">
+<a href="https://github.com/wahyusr21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyusr21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyusr21&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **wahyusr21/wahyusr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
