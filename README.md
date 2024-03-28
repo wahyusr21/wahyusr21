@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-✨ Perkenalkan nama ku **Wahyu Syafri Ramadhan**  
+✨ My name is **Wahyu Syafri Ramadhan**  
 
-✨ Aku merupakan salah satu mahasiswa dari **Institut Teknologi Bandung**  
+✨ I'm studying in **Institut Teknologi Bandung**  
 
-✨ Untuk saat ini aku merupakan salah satu mahasiswa yang mengikuti ***Program Bangkit Academy 2022***
+✨ Currently, I'm working with my thesis for developing the QGroundControl App
 
-✨ Untuk saat ini aku juga sedang belajar **Python** menggunakan *platform* **Udemy**
+
+- 🌱 I’m currently learning about the development of QGroundControl
+- 🤔 I’m looking for help with the development of QGroundControl
+- 📫 You can reach me via my email: wahyusyafriramdhan@gmail.com
 
 <p align="left">
 <a href="https://github.com/wahyusr21">
